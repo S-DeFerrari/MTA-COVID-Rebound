@@ -1,5 +1,5 @@
 # MTA-COVID-Rebound
-![header](coffee_header_real.png)
+![header](coffee_header.png)
 **EDA project correlating subway traffic with cafe revenue, making the case for a decrease in commercial property rent for bussinesses located near subway stops still dormant due to Covid-19.**
 
 
